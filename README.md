@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![Linkedin Badge](https://img.shields.io/badge/-Pedro%20Oliveira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-oliveira-72878480/)](https://www.linkedin.com/in/pedro-oliveira-72878480/)
 
 <!--
 **pedroguilhermesilva/pedroguilhermesilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
