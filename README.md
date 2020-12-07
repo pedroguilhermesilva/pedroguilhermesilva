@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<hr>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Linkedin Badge](https://img.shields.io/badge/-Pedro%20Oliveira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-oliveira-72878480/)](https://www.linkedin.com/in/pedro-oliveira-72878480/)
